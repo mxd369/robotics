@@ -1,0 +1,12 @@
+Gaussian Model Learning
+  Gaussian Model to represent the probability distribution over potential states. 
+  Gaussian Model to do maximum likelihood learning.
+ 
+Kalman Filtering
+  model in a probabilistic manner a dynamic world. 
+
+Robot Mapping
+  using probabilistic techniques to map out the surrounding environment around the robot.
+
+Robot localization using particle filters.
+  incorporate different aspects of sensor information to keep track of the robot's pose over time. 

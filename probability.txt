@@ -1,0 +1,66 @@
+Probability
+Independence
+Conditional Probability
+Bayes Rule
+Random Variables
+Density and Distribution Functions
+
+
+  Experiment
+  sample space: set of all possible outcomes of experiment
+  elementary event: single outcome of the set
+
+
+Probability Measure
+Sigma Algebra: deal wtih countably infinite or uncountable space
+
+Basic Consequences
+
+Independence: Given a probability space, two events A and B are independent if and only if:
+Conditional Probability
+  (two coin flips) what is the probability that both are head, given at least one is head?
+
+
+Bayes Rule
+  posterior
+  likelihood
+  prior
+  evidence
+
+
+Random Variables
+
+Density/Distribution Functions
+
+
+1D Gaussian Distribution
+Multivariate Gaussians
+  Mean Covariance Properties of these distributions
+Gaussian Mixture Models
+
+The two parameters (mean and variance) are easy to compute and interpret
+
+
+
+Central Limit Theorem:
+Expectation of the mean of any random variables converges to Gaussian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
